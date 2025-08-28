@@ -10,4 +10,4 @@ def about(request):
     return HttpResponse('This is the about2 page')
 
 def test(request):
-    return HttpResponse('This is the test1 page')
+    return HttpResponse('This is the test12 page')
